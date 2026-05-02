@@ -1,0 +1,9 @@
+D:\Project\window service\EmailSend\EmailSend\bin\Release\EmailSend.exe.config
+D:\Project\window service\EmailSend\EmailSend\bin\Release\EmailSend.exe
+D:\Project\window service\EmailSend\EmailSend\bin\Release\EmailSend.pdb
+D:\Project\window service\EmailSend\EmailSend\obj\Release\EmailSend.csproj.AssemblyReference.cache
+D:\Project\window service\EmailSend\EmailSend\obj\Release\EmailSend.ProjectInstaller.resources
+D:\Project\window service\EmailSend\EmailSend\obj\Release\EmailSend.csproj.GenerateResource.cache
+D:\Project\window service\EmailSend\EmailSend\obj\Release\EmailSend.csproj.CoreCompileInputs.cache
+D:\Project\window service\EmailSend\EmailSend\obj\Release\EmailSend.exe
+D:\Project\window service\EmailSend\EmailSend\obj\Release\EmailSend.pdb

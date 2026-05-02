@@ -1,0 +1,27 @@
+D:\Project\window service\EmailSend\EmailSend\bin\Debug\EmailSend.exe.config
+D:\Project\window service\EmailSend\EmailSend\bin\Debug\EmailSend.exe
+D:\Project\window service\EmailSend\EmailSend\bin\Debug\EmailSend.pdb
+D:\Project\window service\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.AssemblyReference.cache
+D:\Project\window service\EmailSend\EmailSend\obj\Debug\EmailSend.ProjectInstaller.resources
+D:\Project\window service\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.GenerateResource.cache
+D:\Project\window service\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.CoreCompileInputs.cache
+D:\Project\window service\EmailSend\EmailSend\obj\Debug\EmailSend.exe
+D:\Project\window service\EmailSend\EmailSend\obj\Debug\EmailSend.pdb
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\bin\Debug\EmailSend.exe.config
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\bin\Debug\EmailSend.exe
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\bin\Debug\EmailSend.pdb
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.AssemblyReference.cache
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\obj\Debug\EmailSend.ProjectInstaller.resources
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.GenerateResource.cache
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.CoreCompileInputs.cache
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\obj\Debug\EmailSend.exe
+D:\TFS Sync\Learning\WindowsService\EmailSend\EmailSend\obj\Debug\EmailSend.pdb
+D:\dev-resources\All Windows service\EmailSend\bin\Debug\EmailSend.exe.config
+D:\dev-resources\All Windows service\EmailSend\bin\Debug\EmailSend.exe
+D:\dev-resources\All Windows service\EmailSend\bin\Debug\EmailSend.pdb
+D:\dev-resources\All Windows service\EmailSend\obj\Debug\EmailSend.csproj.AssemblyReference.cache
+D:\dev-resources\All Windows service\EmailSend\obj\Debug\EmailSend.ProjectInstaller.resources
+D:\dev-resources\All Windows service\EmailSend\obj\Debug\EmailSend.csproj.GenerateResource.cache
+D:\dev-resources\All Windows service\EmailSend\obj\Debug\EmailSend.csproj.CoreCompileInputs.cache
+D:\dev-resources\All Windows service\EmailSend\obj\Debug\EmailSend.exe
+D:\dev-resources\All Windows service\EmailSend\obj\Debug\EmailSend.pdb
