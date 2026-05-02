@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0413736ad5d07d1cf8d7b505dea6e581e1a393c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e53b8e373c81f17810f0d5a4ecf00cd845141b08")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
