@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GCqeyhQwJrFvVagfSHxPYW2uT+MPAwiFoLS9AHnqyec=",
+  "Source": "GoogleServices",
+  "BasePath": "_content/GoogleServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

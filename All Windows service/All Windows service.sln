@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSend", "EmailSend\EmailSend.csproj", "{328AC475-E88A-4134-BBF8-E74E2F4F01FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ai Agent", "Ai Agent\Ai Agent.csproj", "{C8D73173-F16C-4CEB-B32E-665C86CB6AC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{328AC475-E88A-4134-BBF8-E74E2F4F01FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{328AC475-E88A-4134-BBF8-E74E2F4F01FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{328AC475-E88A-4134-BBF8-E74E2F4F01FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D73173-F16C-4CEB-B32E-665C86CB6AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D73173-F16C-4CEB-B32E-665C86CB6AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D73173-F16C-4CEB-B32E-665C86CB6AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D73173-F16C-4CEB-B32E-665C86CB6AC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

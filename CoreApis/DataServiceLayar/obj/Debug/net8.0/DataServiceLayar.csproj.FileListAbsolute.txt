@@ -1,0 +1,12 @@
+D:\dev-resources\CoreApis\DataServiceLayar\bin\Debug\net8.0\DataServiceLayar.deps.json
+D:\dev-resources\CoreApis\DataServiceLayar\bin\Debug\net8.0\DataServiceLayar.dll
+D:\dev-resources\CoreApis\DataServiceLayar\bin\Debug\net8.0\DataServiceLayar.pdb
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.AssemblyInfoInputs.cache
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.AssemblyInfo.cs
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.csproj.CoreCompileInputs.cache
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.sourcelink.json
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.dll
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\refint\DataServiceLayar.dll
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.pdb
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\ref\DataServiceLayar.dll
