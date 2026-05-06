@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSend", "EmailSend\Emai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ai Agent", "Ai Agent\Ai Agent.csproj", "{C8D73173-F16C-4CEB-B32E-665C86CB6AC8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helper", "Helper", "{A2C68F35-39ED-4955-9294-29B88AE7E0A2}"
+	ProjectSection(SolutionItems) = preProject
+		..\DataUtility\DataUtility.csproj = ..\DataUtility\DataUtility.csproj
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

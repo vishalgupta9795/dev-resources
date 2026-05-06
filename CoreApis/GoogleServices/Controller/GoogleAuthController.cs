@@ -7,5 +7,6 @@ namespace GoogleServices.Controller
     [ApiController]
     public class GoogleAuthController : ControllerBase
     {
+        
     }
 }

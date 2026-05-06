@@ -1,0 +1,13 @@
+D:\dev-resources\DataUtility\bin\Debug\net8.0\DataUtility.deps.json
+D:\dev-resources\DataUtility\bin\Debug\net8.0\DataUtility.dll
+D:\dev-resources\DataUtility\bin\Debug\net8.0\DataUtility.pdb
+D:\dev-resources\DataUtility\obj\Debug\net8.0\DataUtility.csproj.AssemblyReference.cache
+D:\dev-resources\DataUtility\obj\Debug\net8.0\DataUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev-resources\DataUtility\obj\Debug\net8.0\DataUtility.AssemblyInfoInputs.cache
+D:\dev-resources\DataUtility\obj\Debug\net8.0\DataUtility.AssemblyInfo.cs
+D:\dev-resources\DataUtility\obj\Debug\net8.0\DataUtility.csproj.CoreCompileInputs.cache
+D:\dev-resources\DataUtility\obj\Debug\net8.0\DataUtility.sourcelink.json
+D:\dev-resources\DataUtility\obj\Debug\net8.0\DataUtility.dll
+D:\dev-resources\DataUtility\obj\Debug\net8.0\refint\DataUtility.dll
+D:\dev-resources\DataUtility\obj\Debug\net8.0\DataUtility.pdb
+D:\dev-resources\DataUtility\obj\Debug\net8.0\ref\DataUtility.dll

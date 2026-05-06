@@ -10,4 +10,12 @@
     <Folder Include="Model\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Data.Common" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataUtility\DataUtility.csproj" />
+  </ItemGroup>
+
 </Project>

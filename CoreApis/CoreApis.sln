@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleServices", "GoogleSer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServiceLayar", "DataServiceLayar\DataServiceLayar.csproj", "{824AC8B3-A741-4E56-A4DA-0C34E4208087}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataUtility", "..\DataUtility\DataUtility.csproj", "{5DBB8609-BD61-42B8-B9C7-C728E4332DC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helper", "Helper", "{E229C2DC-3499-470F-9624-608C4C961EAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +25,16 @@ Global
 		{824AC8B3-A741-4E56-A4DA-0C34E4208087}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{824AC8B3-A741-4E56-A4DA-0C34E4208087}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{824AC8B3-A741-4E56-A4DA-0C34E4208087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBB8609-BD61-42B8-B9C7-C728E4332DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBB8609-BD61-42B8-B9C7-C728E4332DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBB8609-BD61-42B8-B9C7-C728E4332DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBB8609-BD61-42B8-B9C7-C728E4332DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{824AC8B3-A741-4E56-A4DA-0C34E4208087} = {E229C2DC-3499-470F-9624-608C4C961EAF}
+		{5DBB8609-BD61-42B8-B9C7-C728E4332DC1} = {E229C2DC-3499-470F-9624-608C4C961EAF}
 	EndGlobalSection
 EndGlobal

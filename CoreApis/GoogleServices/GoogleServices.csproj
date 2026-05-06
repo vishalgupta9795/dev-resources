@@ -14,6 +14,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="Scrutor" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataUtility\DataUtility.csproj" />
     <ProjectReference Include="..\DataServiceLayar\DataServiceLayar.csproj" />
   </ItemGroup>
 

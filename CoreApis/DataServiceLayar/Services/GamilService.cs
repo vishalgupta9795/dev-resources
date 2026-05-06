@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataUtility.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,10 @@ namespace DataServiceLayar.Services
 {
     public class GamilService
     {
+        private readonly IApiService _IApiService;
+        public GamilService(IApiService iApiService)
+        {
+            _IApiService = iApiService;
+        }
     }
 }

@@ -10,3 +10,7 @@ D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.dll
 D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\refint\DataServiceLayar.dll
 D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.pdb
 D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\ref\DataServiceLayar.dll
+D:\dev-resources\CoreApis\DataServiceLayar\bin\Debug\net8.0\DataUtility.dll
+D:\dev-resources\CoreApis\DataServiceLayar\bin\Debug\net8.0\DataUtility.pdb
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServiceLayar.csproj.AssemblyReference.cache
+D:\dev-resources\CoreApis\DataServiceLayar\obj\Debug\net8.0\DataServ.3C9D5336.Up2Date
