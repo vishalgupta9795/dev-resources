@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-NetTCPConnection -LocalPort 4200 -State Listen)",
+      "Bash(npm install *)"
+    ]
+  }
+}
