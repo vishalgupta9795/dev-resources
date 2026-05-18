@@ -25,8 +25,8 @@ namespace GoogleServices.Controller
         [HttpPost("SaveGoogleAuth")]
         public IActionResult SaveGoogleAuth([FromBody] OAuthTokenModel token,int MaterAuthTypeId)
         {
-             _authService.SaveGoogleAuth(token,(DataUtility.Enums.MasterAuthTypeId)MaterAuthTypeId);
+              _authService.SaveGoogleAuth(token,(DataUtility.Enums.MasterAuthTypeId)MaterAuthTypeId);
             return Ok();
-        }
+         }
     }
 }
