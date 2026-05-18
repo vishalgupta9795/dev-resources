@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cB91+N3txvg=",
+  "success": true,
+  "projectFilePath": "D:\\dev-resources\\LearningwithfullStack\\MakeHostConguration\\Day1\\Day1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

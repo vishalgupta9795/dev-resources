@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
     "RelativePath": "",
     "HttpMethod": "GET",
     "IsController": false,
@@ -16,6 +16,48 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "GoogleServices.Controller.AuthController",
+    "Method": "GetProviderCredentialToken",
+    "RelativePath": "api/Auth/GetProviderCredentialToken",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "masterAuthTypeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "materActionMethodId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleServices.Controller.AuthController",
+    "Method": "SaveGoogleAuth",
+    "RelativePath": "api/Auth/SaveGoogleAuth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "DataUtility.Models.OAuthTokenModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "MaterAuthTypeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "GoogleServices.Controller.UserController",
