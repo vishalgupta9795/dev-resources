@@ -22,7 +22,6 @@ export class LoginComponent {
     if (result.length > 0) {
       GoogleDetails = result[0];
     }
-debugger;
     const width = 500;
     const height = 600;
     const left = (window.screen.width - width) / 2;
@@ -43,7 +42,6 @@ debugger;
     return await new Promise((resolve, reject) => {
       let ApiUrl = this.authService.GetProviderCredentialTokenUrl(EnumMasterAuthTypeId.Google, EnumMasterActionMethodId.Get_Credential);
       this.apiServ.Get(ApiUrl).subscribe((Res: any) => {
-        console.log(Res);
         resolve(Res);
       });
     });

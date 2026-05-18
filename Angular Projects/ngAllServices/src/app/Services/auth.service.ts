@@ -5,8 +5,7 @@ import { EnumMasterAuthTypeId } from '../Enums/EnumMasterAuthTypeId';
   providedIn: 'root'
 })
 export class AuthService {
- 
-
+  
   constructor() { }
 
   GetProviderCredentialTokenUrl(masterAuthTypeId:number,materActionMethodId:number){

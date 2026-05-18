@@ -46,8 +46,6 @@ export class GoogeLoginComponent implements OnInit {
       grant_type: 'authorization_code'
     };
     this.authServ.GetGoogleAccessToken(GoogleDetails.TokenUrl, param).subscribe((res: any) => {
-      console.log(res);
-      debugger;
       this.OAuthToken.accessToken = res.access_token;
       this.OAuthToken.expireInDt = new Date(new Date().getTime() + res.expires_in * 1000);
       this.OAuthToken.refershToken = res.refresh_token;
@@ -62,7 +60,6 @@ export class GoogeLoginComponent implements OnInit {
     return await new Promise((resolve, reject) => {
       let ApiUrl = this.authService.GetProviderCredentialTokenUrl(EnumMasterAuthTypeId.Google, EnumMasterActionMethodId.Get_Credential);
       this.apiServ.Get(ApiUrl).subscribe((Res: any) => {
-        console.log(Res);
         resolve(Res);
       });
     });
